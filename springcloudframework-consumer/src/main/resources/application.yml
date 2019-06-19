@@ -1,9 +1,9 @@
 server:
-  port: 80
+  port: 8012
   
   
 eureka:
   client:
     register-with-eureka: false
-    service-url: 
+    service-url:
       defaultZone: http://localhost:7001/eureka

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloudframework-common-base" />
+        <module name="springcloudframework-consumer" />
+        <module name="springcloudframework-discovery" />
+        <module name="springcloudframework-eureka" />
+        <module name="springcloudframework-gateway" />
+        <module name="springcloudframework-monitor" />
+        <module name="springcloudframework-provider-news" />
+        <module name="springcloudframework-zipkin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloudframework" target="1.8" />
+      <module name="springcloudframework-common" target="1.8" />
+      <module name="springcloudframework-common-base" target="1.8" />
+      <module name="springcloudframework-consumer" target="1.8" />
+      <module name="springcloudframework-discovery" target="1.8" />
+      <module name="springcloudframework-eureka" target="1.8" />
+      <module name="springcloudframework-gateway" target="1.8" />
+      <module name="springcloudframework-monitor" target="1.8" />
+      <module name="springcloudframework-provider" target="1.8" />
+      <module name="springcloudframework-provider-news" target="1.8" />
+      <module name="springcloudframework-zipkin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
