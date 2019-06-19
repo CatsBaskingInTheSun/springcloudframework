@@ -98,5 +98,6 @@
 		<module>springcloudframework-provider-api</module>
 		<module>springcloudframework-common</module>
 		<module>springcloudframework-generator</module>
+		<module>springcloudframework-consumer</module>
 	</modules>
 </project>

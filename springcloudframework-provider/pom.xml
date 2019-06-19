@@ -6,4 +6,8 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>springcloudframework-provider</artifactId>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>springcloudframework-provider-news</module>
+  </modules>
 </project>

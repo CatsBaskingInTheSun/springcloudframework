@@ -6,4 +6,8 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>springcloudframework-common</artifactId>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>springcloudframework-common-base</module>
+  </modules>
 </project>
