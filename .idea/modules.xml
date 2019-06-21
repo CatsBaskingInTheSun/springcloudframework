@@ -5,9 +5,11 @@
       <module fileurl="file://$PROJECT_DIR$/springcloudframework.iml" filepath="$PROJECT_DIR$/springcloudframework.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudframework-common/springcloudframework-common.iml" filepath="$PROJECT_DIR$/springcloudframework-common/springcloudframework-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudframework-common/springcloudframework-common-base/springcloudframework-common-base.iml" filepath="$PROJECT_DIR$/springcloudframework-common/springcloudframework-common-base/springcloudframework-common-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudframework-common/springcloudframework-common-service/springcloudframework-common-service.iml" filepath="$PROJECT_DIR$/springcloudframework-common/springcloudframework-common-service/springcloudframework-common-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudframework-consumer/springcloudframework-consumer.iml" filepath="$PROJECT_DIR$/springcloudframework-consumer/springcloudframework-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudframework-discovery/springcloudframework-discovery.iml" filepath="$PROJECT_DIR$/springcloudframework-discovery/springcloudframework-discovery.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudframework-eureka/springcloudframework-eureka.iml" filepath="$PROJECT_DIR$/springcloudframework-eureka/springcloudframework-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudframework-fegin/springcloudframework-fegin.iml" filepath="$PROJECT_DIR$/springcloudframework-fegin/springcloudframework-fegin.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudframework-gateway/springcloudframework-gateway.iml" filepath="$PROJECT_DIR$/springcloudframework-gateway/springcloudframework-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudframework-monitor/springcloudframework-monitor.iml" filepath="$PROJECT_DIR$/springcloudframework-monitor/springcloudframework-monitor.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudframework-provider/springcloudframework-provider.iml" filepath="$PROJECT_DIR$/springcloudframework-provider/springcloudframework-provider.iml" />

@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springcloudframework-common-base" />
+        <module name="springcloudframework-common-service" />
         <module name="springcloudframework-consumer" />
         <module name="springcloudframework-discovery" />
         <module name="springcloudframework-eureka" />
+        <module name="springcloudframework-fegin" />
         <module name="springcloudframework-gateway" />
         <module name="springcloudframework-monitor" />
         <module name="springcloudframework-provider-news" />
@@ -20,14 +22,18 @@
       <module name="springcloudframework" target="1.8" />
       <module name="springcloudframework-common" target="1.8" />
       <module name="springcloudframework-common-base" target="1.8" />
+      <module name="springcloudframework-common-service" target="1.8" />
       <module name="springcloudframework-consumer" target="1.8" />
       <module name="springcloudframework-discovery" target="1.8" />
       <module name="springcloudframework-eureka" target="1.8" />
+      <module name="springcloudframework-fegin" target="1.8" />
       <module name="springcloudframework-gateway" target="1.8" />
       <module name="springcloudframework-monitor" target="1.8" />
       <module name="springcloudframework-provider" target="1.8" />
       <module name="springcloudframework-provider-news" target="1.8" />
       <module name="springcloudframework-zipkin" target="1.8" />
+      <module name="springcloudframeworkfegin" target="1.8" />
+      <module name="springcloudframeworkfeign" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -99,5 +99,8 @@
 		<module>springcloudframework-common</module>
 		<module>springcloudframework-generator</module>
 		<module>springcloudframework-consumer</module>
+        <module>springcloudframeworkfeign</module>
+        <module>springcloudframeworkfegin</module>
+        <module>springcloudframework-fegin</module>
 	</modules>
 </project>

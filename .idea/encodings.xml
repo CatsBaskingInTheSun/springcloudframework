@@ -4,13 +4,17 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudframework-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudframework-common/springcloudframework-common-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudframework-common/springcloudframework-common-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudframework-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudframework-discovery" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudframework-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudframework-fegin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudframework-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudframework-gateway" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudframework-monitor" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudframework-provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudframework-provider/springcloudframework-provider-news" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springcloudframework-zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloudframeworkfegin" charset="UTF-8" />
   </component>
 </project>
